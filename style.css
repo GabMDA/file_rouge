@@ -1,0 +1,25 @@
+header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+header p {
+    color: white;
+}
+
+body {
+    background-color: #041821;
+}
+
+main h1 {
+    color: white;
+}
+
+.div2 {
+    text-align: right;
+    margin-top: 16px;
+}
+
+#vert {
+    color: #1ece9a;
+}
